@@ -1,2 +1,2 @@
 # credit-consumption-on-cron-jobs
-test
+cron test
